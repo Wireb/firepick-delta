@@ -1,0 +1,1 @@
+See the firmware folder under the EAT0010. Both the EAT0010 and the EAT0011 use the exact same firmware at this time. 
