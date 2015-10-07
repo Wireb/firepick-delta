@@ -1,4 +1,4 @@
-### EAT0010 Bed heater with I2C A2D
+### EAT0011 hot end heater / stepper control with I2C A2D
 
 This design is to work around the issues with multiple 5V references and electrical noise causing weird temperature readings. 
 
