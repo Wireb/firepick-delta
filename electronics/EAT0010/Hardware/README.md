@@ -12,3 +12,6 @@ Change list:
 1. Updates for new micro.
 1. Streched card to clear EMC supports.
 1. Fixed silk screen for screw terminals.
+
+
+TODO add BOM / link to BOM
