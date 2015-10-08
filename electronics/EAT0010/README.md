@@ -19,6 +19,7 @@ High level function overview:
 The firmware is also set up to allow updating via I2C and the hardware can support self contained PID operation with updated firmware. 
 
 Here is the tool slot # to I2C address table
+
 | Tool slot # | EEPROM write | EEPROM read | A2D write | A2D read |
 | ----------- | ------------ | ----------- | --------- | -------- |
 | 1 | 0xA2 | 0xA3 | 0xB2 | 0xB3 |
