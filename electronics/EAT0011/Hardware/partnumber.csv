@@ -1,0 +1,19 @@
+Q, part number, footprint, ref_des
+1, 0.1uF, Capacitors_SMD:C_0805, C5
+1, 100k, Capacitors_SMD:C_0805, R7
+1, 100uF 25V, Capacitors_SMD:c_elec_6.3x7.7, C6
+3, 10k, Capacitors_SMD:C_0805, R4 R6 R5
+2, 10uF, Capacitors_SMD:C_0805, C2 C1
+1, 1k, Capacitors_SMD:C_0805, R3
+1, 1uF 10V, Capacitors_SMD:C_0805, C4
+1, 4.7k 1%, Capacitors_SMD:C_0805, R1
+1, CONN_02X03, Socket_Strips:Socket_Strip_Straight_2x03, CN3
+1, CONN_02X08, PJS_smt_std:16pin_straddle_mount_100mil, CN1
+1, FQD13N06LTM, PJS_smt_std:D-Pak_TO252AA, Q1
+1, JST OSTTE080104, On_shore:OSTTE080104, CN2
+1, MIC5205-5.0MB5, Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5, U1
+1, Metroid, PJS-icons:metroid, icon1
+1, PIC16F1704, Housings_SSOP:TSSOP-14_4.4x5mm_Pitch0.65mm, U2
+1, Red, LEDs:LED-0805, D1
+1, Stepstick, Stepstick:Stepstick, U3
+0, no_pop, Capacitors_SMD:C_0805, C3 R2

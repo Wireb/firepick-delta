@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-06 BZR 5484)-product   date = 8/1/2015 9:48:20 PM
+
+BeginCmp
+TimeStamp = /55BC3904;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B59A08;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B5703E;
+Reference = C3;
+ValeurCmp = no_pop;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B57221;
+Reference = C4;
+ValeurCmp = 1uF 10V;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B58585;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B56078;
+Reference = CN1;
+ValeurCmp = CONN_02X08;
+IdModule  = PJS_smt_std:16pin_straddle_mount_100mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC22BA;
+Reference = CN2;
+ValeurCmp = OSTTA060161;
+IdModule  = On_shore:OSTTA060161;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC27A4;
+Reference = D1;
+ValeurCmp = Red;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC32B0;
+Reference = HS1;
+ValeurCmp = V-1100-SMD/B;
+IdModule  = PJS_smt_std:V-1100-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC211C;
+Reference = icon1;
+ValeurCmp = Metroid;
+IdModule  = PJS-icons:metroid;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC1C20;
+Reference = Q1;
+ValeurCmp = IPD30N03S4L-09;
+IdModule  = PJS_smt_std:D-Pak_TO252AA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B5995C;
+Reference = R1;
+ValeurCmp = 4.7k 1%;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B57E1F;
+Reference = R2;
+ValeurCmp = no_pop;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC2814;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC2447;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC857F;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BC8529;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B56ECB;
+Reference = U1;
+ValeurCmp = MIC5205-5.0MB5;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B5780B;
+Reference = U2;
+ValeurCmp = PIC16F1704;
+IdModule  = Housings_SSOP:TSSOP-14_4.4x5mm_Pitch0.65mm;
+EndCmp
+
+EndListe
